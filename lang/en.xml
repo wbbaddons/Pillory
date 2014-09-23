@@ -5,25 +5,23 @@
 		<item name="wcf.pillory.types"><![CDATA[Types]]></item>
 		<item name="wcf.pillory.activityUnknown"><![CDATA[Unknown]]></item>
 		
-		<item name="wcf.pillory.bans"><![CDATA[Sperrungen]]></item>
-		<item name="wcf.pillory.bans.noitems"><![CDATA[Es sind momentan keine Benutzer gesperrt.]]></item>
-		<item name="wcf.pillory.bans.noReason"><![CDATA[Es wurde keine Begründung angegeben.]]></item>
+		<item name="wcf.pillory.bans"><![CDATA[Bans]]></item>
+		<item name="wcf.pillory.bans.noitems"><![CDATA[There are currently no user banned.]]></item>
+		<item name="wcf.pillory.bans.noReason"><![CDATA[There was no reason given.]]></item>
 		
-		<item name="wcf.pillory.userDeletions"><![CDATA[Accountlöschungen]]></item>
-		<item name="wcf.pillory.userDeletions.deletion"><![CDATA[Accountlöschung]]></item>
-		<item name="wcf.pillory.userDeletion.noitems"><![CDATA[Momentan wurden keine Benutzer zur Löschung markiert.]]></item>
-		<item name="wcf.pillory.userDeletions"><![CDATA[Accountlöschungen]]></item>
-		
+		<item name="wcf.pillory.userDeletions"><![CDATA[Account deletions]]></item>
+		<item name="wcf.pillory.userDeletions.deletion"><![CDATA[Account deletion]]></item>
+		<item name="wcf.pillory.userDeletion.noitems"><![CDATA[There are no users have been marked for deletion.]]></item>
 	</category>
 	
 	<category name="wcf.acp.option">
-		<item name="wcf.acp.option.module_pillory"><![CDATA[Pranger]]></item>
+		<item name="wcf.acp.option.module_pillory"><![CDATA[Pillory]]></item>
 	</category>
 	
 	<category name="wcf.acp.group">
-		<item name="wcf.acp.group.option.category.user.pillory"><![CDATA[Pranger]]></item>
-		<item name="wcf.acp.group.option.category.user.pillory.general"><![CDATA[Allgemein]]></item>
-		<item name="wcf.acp.group.option.user.pillory.canSeeBans"><![CDATA[Kann Sperren sehen]]></item>
-		<item name="wcf.acp.group.option.user.pillory.canSeeUserDeletions"><![CDATA[Kann Accountlöschungen sehen]]></item>
+		<item name="wcf.acp.group.option.category.user.pillory"><![CDATA[Pillory]]></item>
+		<item name="wcf.acp.group.option.category.user.pillory.general"><![CDATA[General]]></item>
+		<item name="wcf.acp.group.option.user.pillory.canSeeBans"><![CDATA[Can see bans]]></item>
+		<item name="wcf.acp.group.option.user.pillory.canSeeUserDeletions"><![CDATA[Can see Account deletions]]></item>
 	</category>
 </language>

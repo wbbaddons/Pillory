@@ -13,7 +13,6 @@
 		<item name="wcf.pillory.userDeletions.deletion"><![CDATA[Accountlöschung]]></item>
 		<item name="wcf.pillory.userDeletion.noitems"><![CDATA[Momentan wurden keine Benutzer zur Löschung markiert.]]></item>
 		<item name="wcf.pillory.userDeletions"><![CDATA[Accountlöschungen]]></item>
-		
 	</category>
 	
 	<category name="wcf.acp.option">
