@@ -1,7 +1,7 @@
 {include file='documentHeader'}
 
 <head>
-	<title>{lang}wcf.pillory.type.userDeletions{/lang} {if $pageNo > 1}- {lang}wcf.page.pageNo{/lang} {/if}- {PAGE_TITLE|language}</title>
+	<title>{lang}wcf.pillory.userDeletions{/lang} {if $pageNo > 1}- {lang}wcf.page.pageNo{/lang} {/if}- {PAGE_TITLE|language}</title>
 	
 	{include file='headInclude'}
 </head>
@@ -27,7 +27,7 @@
 {if !$items}
 	<p class="info">{lang}wcf.pillory.userDeletion.noitems{/lang}</p>
 {else}
-	<div class="marginTop tabularBox tabularBoxTitle pilloryBanList">
+	<div class="marginTop tabularBox tabularBoxTitle pilloryUserDeletionsList">
 		<header>
 			<h2>{lang}wcf.pillory.userDeletions{/lang} <span class="badge badgeInverse">{#$items}</span></h2>
 		</header>
