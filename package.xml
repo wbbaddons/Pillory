@@ -6,7 +6,8 @@
 		<packagedescription><![CDATA[This plugin provides a pillory, which lists bans and account deletions in the frontend.]]></packagedescription>
 		<packagedescription language="de"><![CDATA[Dieses Plugin stellt einen Pranger bereit, welcher Sperren und Accountlöschungen im Frontend auflistet.]]></packagedescription>
 		<version>1.0.1</version>
-		<date>2014-09-23</date>
+		<date>2014-09-25</date>
+		<license><![CDATA[Creative Commons Attribution-ShareAlike 4.0 <https://creativecommons.org/licenses/by-sa/4.0/legalcode>]]></license>
 	</packageinformation>
 
 	<authorinformation>
