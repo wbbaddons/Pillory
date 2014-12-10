@@ -2,7 +2,7 @@
 <package name="be.bastelstu.josh.pillory" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/package.xsd">
 	<packageinformation>
 		<packagename>Pillory</packagename>
-        <packagename language="de">Pranger</packagename>
+        	<packagename language="de">Pranger</packagename>
 		<packagedescription><![CDATA[This plugin provides a pillory, which lists bans and account deletions in the frontend.]]></packagedescription>
 		<packagedescription language="de"><![CDATA[Dieses Plugin stellt einen Pranger bereit, welcher Sperren und Accountlöschungen im Frontend auflistet.]]></packagedescription>
 		<version>1.0.2</version>
