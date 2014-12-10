@@ -2,7 +2,7 @@
 <data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/pageMenu.xsd">
 	<import>
 		<pagemenuitem name="wcf.pillory.overview">
-			<controller><![CDATA[wcf\page\PilloryPage]]></controller> <!-- does not exist, is modified in PilloryPageMenuItemProvider -->
+			<controller><![CDATA[wcf\page\AbstractPilloryPage]]></controller> <!-- is not callable, modify by PilloryPageMenuItemProvider -->
 			<position>header</position>
 			<options>module_pillory</options>
 			<classname>\wcf\system\menu\page\PilloryPageMenuItemProvider</classname>
